@@ -1,0 +1,41 @@
+sonar.login=admin
+sonar.password=admin@123
+sonar.projectKey=mynewproject
+sonar.projectVersion=1.0
+sonar.sources=./src
+
+sonarscanner batch file path
+C:\Users\afreen.siddiqui\Desktop\SONAR\sonar-scanner-4.6.0.2311-windows\bin\sonar-scanner.bat
+
+first token sonar
+1d4e75480fafc057839a9031dd8d8f01fb6f17d1
+
+new token for name new project-2947376c028f5eb4e74a2324535528a86cd6b18b
+project1: 9a953e717d0693ca56807a1d7b69693f6d668640
+
+
+
+
+
+
+
+
+
+
+
+
+Afreen-0314c0fe8ab95a540e50e7636e96668ecc7a0c05
+donet commands to build donet
+1.git clone 2.ls 3.cd
+4."C:\Users\afreen.siddiqui\Downloads\nuget\nuget.exe" restore "C:\donetproject3\simple-asp-net-core-2-todo-app\AspNetCoreTodo.sln"
+5."C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\MSBuild.exe" "C:\donetproject3\simple-asp-net-core-2-todo-app\AspNetCoreTodo.sln"
+To convert debug to release execute commands on cmd -"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\MSBuild.exe" "C:\donetproject3\simple-asp-net-core-2-todo-app\AspNetCoreTodo.sln" /p:Configuration=Release /p:Platform="Any CPU"
+ 
+then donet commands in cmd for generate project on sonarqube-"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\MSBuild.exe" 
+6."C:\\Users\\afreen.siddiqui\\Desktop\\SONAR\\SonarScanner.MSBuild.exe" begin /k:"Donetproject" /d:sonar.login="2947376c028f5eb4e74a2324535528a86cd6b18b"
+donet 2 path commands 
+7."C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\MSBuild.exe" "C:\Donet project\APIDemo_DoNetCore2.1\ApiDemo.sln"
+8."C:\\Users\\afreen.siddiqui\\Desktop\\SONAR\\SonarScanner.MSBuild.exe" end /d:sonar.login="2947376c028f5eb4e74a2324535528a86cd6b18b"
+
+nEw tokaen Dotnet task-4150931455403d0e8e2a3c090e8812e42c975626
+4150931455403d0e8e2a3c090e8812e42c975626
